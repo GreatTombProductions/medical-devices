@@ -1,0 +1,181 @@
+{
+  "total_events": 24746828,
+  "event_breakdown": {
+    "Malfunction": 15345510,
+    "Injury": 9016006,
+    "Death": 226190,
+    "Other": 101636,
+    "No answer provided": 990
+  },
+  "total_devices_indexed": 499,
+  "total_manufacturers_indexed": 299,
+  "total_device_details": 200,
+  "total_manufacturer_details": 99,
+  "top_devices": [
+    {
+      "name": "ENDOSSEOUS DENTAL IMPLANT",
+      "count": 2914526
+    },
+    {
+      "name": "CONTINUOUS GLUCOSE MONITOR",
+      "count": 2301668
+    },
+    {
+      "name": "PUMP, INFUSION",
+      "count": 1549689
+    },
+    {
+      "name": "ALTERNATE CONTROLLER ENABLED INFUSION PUMP",
+      "count": 588821
+    },
+    {
+      "name": "ALTERNATE CONTROLLER ENABLED INSULIN INFUSION PUMP",
+      "count": 494349
+    },
+    {
+      "name": "AUTOMATED INSULIN DOSING DEVICE SYSTEM, SINGLE HORMONAL CONTROL",
+      "count": 436768
+    },
+    {
+      "name": "ARTIFICIAL PANCREAS DEVICE SYSTEM, SINGLE HORMONAL CONTROL",
+      "count": 418461
+    },
+    {
+      "name": "PUMP, INFUSION, INSULIN, TO BE USED WITH INVASIVE GLUCOSE SENSOR",
+      "count": 410612
+    },
+    {
+      "name": "IMPLANT, ENDOSSEOUS, ROOT-FORM",
+      "count": 367565
+    },
+    {
+      "name": "INSULIN INFUSION PUMP / SENSOR AUGMENTED",
+      "count": 315364
+    },
+    {
+      "name": "GLUCOSE MONITORING SYS/KIT",
+      "count": 294948
+    },
+    {
+      "name": "INSULIN INFUSION PUMP",
+      "count": 269778
+    },
+    {
+      "name": "VENTILATOR, NON-CONTINUOUS (RESPIRATOR)",
+      "count": 264230
+    },
+    {
+      "name": "FLASH GLUCOSE MONITORING SYSTEM",
+      "count": 259842
+    },
+    {
+      "name": "PERMANENT PACEMAKER ELECTRODE",
+      "count": 244056
+    },
+    {
+      "name": "INFUSION PUMP",
+      "count": 237730
+    },
+    {
+      "name": "DENTAL IMPLANT",
+      "count": 224668
+    },
+    {
+      "name": "ARTIFICIAL PANCREAS DEVICE SYSTEM, THRESHOLD SUSPEND",
+      "count": 197516
+    },
+    {
+      "name": "PROSTHESIS, BREAST, NONINFLATABLE, INTERNAL, SILICONE GEL-FILLED",
+      "count": 190441
+    },
+    {
+      "name": "PUMP, INFUSION, INSULIN",
+      "count": 179104
+    }
+  ],
+  "top_manufacturers": [
+    {
+      "name": "DEXCOM, INC.",
+      "count": 2380934
+    },
+    {
+      "name": "MEDTRONIC PUERTO RICO OPERATIONS CO.",
+      "count": 1947017
+    },
+    {
+      "name": "CAREFUSION SD",
+      "count": 1374434
+    },
+    {
+      "name": "TANDEM DIABETES CARE",
+      "count": 1278329
+    },
+    {
+      "name": "INSTITUT STRAUMANN AG",
+      "count": 1126789
+    },
+    {
+      "name": "NOBEL BIOCARE AB",
+      "count": 883340
+    },
+    {
+      "name": "MEDTRONIC MINIMED",
+      "count": 431408
+    },
+    {
+      "name": "NOBEL BIOCARE AB G\u00d6TEBORG",
+      "count": 408627
+    },
+    {
+      "name": "BOSTON SCIENTIFIC CORPORATION",
+      "count": 398947
+    },
+    {
+      "name": "ABBOTT DIABETES CARE INC",
+      "count": 354531
+    },
+    {
+      "name": "RESPIRONICS, INC.",
+      "count": 299878
+    },
+    {
+      "name": "MPRI",
+      "count": 293090
+    },
+    {
+      "name": "INSULET CORPORATION",
+      "count": 291926
+    },
+    {
+      "name": "LIFESCAN EUROPE, A DIVISION OF CILAG GMBH INTL",
+      "count": 223382
+    },
+    {
+      "name": "JJGC S.A.",
+      "count": 206537
+    },
+    {
+      "name": "ANIMAS CORPORATION",
+      "count": 202641
+    },
+    {
+      "name": "ST. JUDE MEDICAL, INC.(CRM-SYLMAR)",
+      "count": 193385
+    },
+    {
+      "name": "BAXTER HEALTHCARE CORPORATION",
+      "count": 177283
+    },
+    {
+      "name": "ALLERGAN (COSTA RICA)",
+      "count": 174110
+    },
+    {
+      "name": "DENTSPLY IMPLANTS MANUFACTURING GMBH",
+      "count": 160871
+    }
+  ],
+  "data_source": "openFDA MAUDE (Manufacturer and User Facility Device Experience)",
+  "api_url": "https://api.fda.gov/device/event.json",
+  "generated": "2026-05-26"
+}
